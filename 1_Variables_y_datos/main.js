@@ -59,3 +59,5 @@ var Mexicano = false;
 esAdulto = 100;
 nombre = true;
 
+//Objetos
+//Arreglos
